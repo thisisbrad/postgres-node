@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DEBUG": "api:*",
+    "SECRET": "JdqCEwrwbQJLRj3k",
+    "PORT": 4000
+  }
+}
